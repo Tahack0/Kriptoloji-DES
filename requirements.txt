@@ -1,0 +1,6 @@
+numpy
+opencv-python
+psutil
+pycryptodome
+torch
+ultralytics
